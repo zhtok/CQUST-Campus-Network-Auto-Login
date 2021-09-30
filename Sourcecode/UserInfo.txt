@@ -1,0 +1,16 @@
+Your school ID 【学号】：
+201844XXXX
+Your password【密码】 ：
+123456
+
+===================================
+DO NOT change anything but your ID and password !
+不要修改除学号和密码以外的内容！
+===================================
+CQUST Campust Network Auto Login v2.0
+
+User configuration file
+Designed by Chris
+E-mail : chris@cqust.edu.cn
+Updated at 2021/09/28 18:57
+===================================
